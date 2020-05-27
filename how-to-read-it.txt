@@ -1,0 +1,2 @@
+Hello, aspiring developer. This repository contains all the foobar questions that I came across in my attempt to subdue commander Lambda. 
+If you are looking for a challenge click the question you want to refer by opening readme.txt. solution for the given problem is provided in solution folder.
